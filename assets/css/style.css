@@ -1,0 +1,89 @@
+
+
+.banner{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-weight: bold;
+    font-size: 24pt;
+    width: 250px;
+    height: 40px;
+    padding: 30px;
+    margin-top: -10px;
+    margin-left: 23%;
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
+
+h2 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-weight: bold;
+    font-size: 24pt;
+    color: #4aaaa5;
+    padding-bottom: 25px;
+    border-bottom: 3px solid #cccccc;
+}
+
+.nav {
+    
+    position: static;
+    margin-top: -60px;
+    margin-right: 33%;
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color: #4aaaa5;
+    
+}
+
+
+img {
+    float: left;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    
+}
+
+.stupid {
+    width: 960px;
+    
+    margin-top: 5%;
+    background-color: #ffffff;
+    padding:20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18pt;
+    color: #777777;
+    
+    
+
+}
+
+header {
+    margin-left: -30%;
+    height: 10%;
+    background-color: #ffffff;
+    border-bottom: 1px solid #cccccc;
+
+    
+}
+
+footer {
+
+    position: static;
+
+    margin-left: -200px;
+    height: 60px;
+    background-color: #666666;
+
+    
+
+}
+
+body {
+    background-color: #dadada43;
+    margin-left: 20%;
+    
+}
+
+ {
+    
+}
