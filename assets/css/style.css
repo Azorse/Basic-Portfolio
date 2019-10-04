@@ -107,4 +107,35 @@ img {
     
 
 }
+.button {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 10px 15px;
+    border: none;
+}
 
+.button:hover {
+    background: #777777;;
+    color:#ffffff;
+}
+
+.my-form {
+    padding-right: 20px;
+}
+
+.my-form .form-group {
+    padding-bottom: 20px;
+}
+
+.my-form label {
+    display:block;
+}
+
+.my-form input[type="text"], .my-form textarea {
+    padding: 8px;
+    width: 100%;
+}
+
+.my-form textarea {
+    height: 150px;
+}
